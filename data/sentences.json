@@ -1,0 +1,841 @@
+[
+  {
+    "id": 1,
+    "textIncorrect": "maria lives in japan.",
+    "textCorrect": "Maria lives in Japan.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 2,
+    "textIncorrect": "we went to target on friday.",
+    "textCorrect": "We went to Target on Friday.",
+    "capitalWordIndexes": [
+      0,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "textIncorrect": "my brother speaks spanish very well.",
+    "textCorrect": "My brother speaks Spanish very well.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "textIncorrect": "i like watching movies with anna.",
+    "textCorrect": "I like watching movies with Anna.",
+    "capitalWordIndexes": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": 5,
+    "textIncorrect": "new york is a big city.",
+    "textCorrect": "New York is a big city.",
+    "capitalWordIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 6,
+    "textIncorrect": "she bought bread at safeway yesterday.",
+    "textCorrect": "She bought bread at Safeway yesterday.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 7,
+    "textIncorrect": "they are from mexico.",
+    "textCorrect": "They are from Mexico.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 8,
+    "textIncorrect": "my birthday is in august.",
+    "textCorrect": "My birthday is in August.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 9,
+    "textIncorrect": "he works at bellevue college.",
+    "textCorrect": "He works at Bellevue College.",
+    "capitalWordIndexes": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 10,
+    "textIncorrect": "christmas is my favorite holiday.",
+    "textCorrect": "Christmas is my favorite holiday.",
+    "capitalWordIndexes": [
+      0
+    ]
+  },
+  {
+    "id": 12,
+    "textIncorrect": "my mom went to costco yesterday.",
+    "textCorrect": "My mom went to Costco yesterday.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 13,
+    "textIncorrect": "he is from canada.",
+    "textCorrect": "He is from Canada.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 14,
+    "textIncorrect": "sunday is a relaxing day.",
+    "textCorrect": "Sunday is a relaxing day.",
+    "capitalWordIndexes": [
+      0
+    ]
+  },
+  {
+    "id": 15,
+    "textIncorrect": "we ate dinner at panda express.",
+    "textCorrect": "We ate dinner at Panda Express.",
+    "capitalWordIndexes": [
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 16,
+    "textIncorrect": "mrs. brown teaches english.",
+    "textCorrect": "Mrs. Brown teaches English.",
+    "capitalWordIndexes": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 17,
+    "textIncorrect": "my favorite month is december.",
+    "textCorrect": "My favorite month is December.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 18,
+    "textIncorrect": "he likes chinese food.",
+    "textCorrect": "He likes Chinese food.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 19,
+    "textIncorrect": "i visited paris last year.",
+    "textCorrect": "I visited Paris last year.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 20,
+    "textIncorrect": "monday is the first day of the week.",
+    "textCorrect": "Monday is the first day of the week.",
+    "capitalWordIndexes": [
+      0
+    ]
+  },
+  {
+    "id": 21,
+    "textIncorrect": "they went to disneyland in california.",
+    "textCorrect": "They went to Disneyland in California.",
+    "capitalWordIndexes": [
+      0,
+      3,
+      5
+    ]
+  },
+  {
+    "id": 22,
+    "textIncorrect": "i love reading in english.",
+    "textCorrect": "I love reading in English.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 23,
+    "textIncorrect": "japan is far from brazil.",
+    "textCorrect": "Japan is far from Brazil.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 24,
+    "textIncorrect": "we play soccer on saturday.",
+    "textCorrect": "We play soccer on Saturday.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 25,
+    "textIncorrect": "tom and lisa went shopping.",
+    "textCorrect": "Tom and Lisa went shopping.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 26,
+    "textIncorrect": "my teacher’s name is krista.",
+    "textCorrect": "My teacher’s name is Krista.",
+    "capitalWordIndexes": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": 27,
+    "textIncorrect": "i want to go to seattle.",
+    "textCorrect": "I want to go to Seattle.",
+    "capitalWordIndexes": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": 28,
+    "textIncorrect": "they bought shoes at nike.",
+    "textCorrect": "They bought shoes at Nike.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 29,
+    "textIncorrect": "we saw whales in alaska.",
+    "textCorrect": "We saw whales in Alaska.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 30,
+    "textIncorrect": "my dad works at microsoft.",
+    "textCorrect": "My dad works at Microsoft.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 31,
+    "textIncorrect": "thanksgiving is in november.",
+    "textCorrect": "Thanksgiving is in November.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 32,
+    "textIncorrect": "we watched a movie called frozen.",
+    "textCorrect": "We watched a movie called Frozen.",
+    "capitalWordIndexes": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": 33,
+    "textIncorrect": "she likes french music.",
+    "textCorrect": "She likes French music.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 34,
+    "textIncorrect": "we went to bellevue park.",
+    "textCorrect": "We went to Bellevue Park.",
+    "capitalWordIndexes": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 35,
+    "textIncorrect": "he lives in china.",
+    "textCorrect": "He lives in China.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 36,
+    "textIncorrect": "i met john at school.",
+    "textCorrect": "I met John at school.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 37,
+    "textIncorrect": "my favorite class is math.",
+    "textCorrect": "My favorite class is Math.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 39,
+    "textIncorrect": "the teacher is from india.",
+    "textCorrect": "The teacher is from India.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 40,
+    "textIncorrect": "they speak english and chinese.",
+    "textCorrect": "They speak English and Chinese.",
+    "capitalWordIndexes": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "id": 41,
+    "textIncorrect": "i bought apples at walmart.",
+    "textCorrect": "I bought apples at Walmart.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 42,
+    "textIncorrect": "we go swimming on tuesday.",
+    "textCorrect": "We go swimming on Tuesday.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 43,
+    "textIncorrect": "he is from seattle, washington.",
+    "textCorrect": "He is from Seattle, Washington.",
+    "capitalWordIndexes": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 45,
+    "textIncorrect": "my friend is from italy.",
+    "textCorrect": "My friend is from Italy.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 47,
+    "textIncorrect": "she speaks korean and japanese.",
+    "textCorrect": "She speaks Korean and Japanese.",
+    "capitalWordIndexes": [
+      0,
+      2,
+      4
+    ]
+  },
+  {
+    "id": 48,
+    "textIncorrect": "our teacher is from france.",
+    "textCorrect": "Our teacher is from France.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 49,
+    "textIncorrect": "i have english class on monday.",
+    "textCorrect": "I have English class on Monday.",
+    "capitalWordIndexes": [
+      0,
+      2,
+      5
+    ]
+  },
+  {
+    "id": 50,
+    "textIncorrect": "we visited the space needle.",
+    "textCorrect": "We visited the Space Needle.",
+    "capitalWordIndexes": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 51,
+    "textIncorrect": "the coffee shop is called starbucks.",
+    "textCorrect": "The coffee shop is called Starbucks.",
+    "capitalWordIndexes": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": 52,
+    "textIncorrect": "he is from vietnam.",
+    "textCorrect": "He is from Vietnam.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 53,
+    "textIncorrect": "my mom was born in july.",
+    "textCorrect": "My mom was born in July.",
+    "capitalWordIndexes": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": 55,
+    "textIncorrect": "i study english at bellevue college.",
+    "textCorrect": "I study English at Bellevue College.",
+    "capitalWordIndexes": [
+      0,
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 56,
+    "textIncorrect": "we ate lunch at panda express.",
+    "textCorrect": "We ate lunch at Panda Express.",
+    "capitalWordIndexes": [
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 57,
+    "textIncorrect": "he likes japanese food.",
+    "textCorrect": "He likes Japanese food.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 58,
+    "textIncorrect": "my family lives in canada.",
+    "textCorrect": "My family lives in Canada.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 59,
+    "textIncorrect": "we watched the movie toy story.",
+    "textCorrect": "We watched the movie Toy Story.",
+    "capitalWordIndexes": [
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 60,
+    "textIncorrect": "i will visit london someday.",
+    "textCorrect": "I will visit London someday.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 61,
+    "textIncorrect": "they eat sushi in japan.",
+    "textCorrect": "They eat sushi in Japan.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 62,
+    "textIncorrect": "we saw dolphins in hawaii.",
+    "textCorrect": "We saw dolphins in Hawaii.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 63,
+    "textIncorrect": "my name is emily.",
+    "textCorrect": "My name is Emily.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 64,
+    "textIncorrect": "he likes to read harry potter.",
+    "textCorrect": "He likes to read Harry Potter.",
+    "capitalWordIndexes": [
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 65,
+    "textIncorrect": "she drinks coffee from starbucks.",
+    "textCorrect": "She drinks coffee from Starbucks.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 66,
+    "textIncorrect": "we go to church on sunday.",
+    "textCorrect": "We go to church on Sunday.",
+    "capitalWordIndexes": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": 67,
+    "textIncorrect": "i want to travel to italy.",
+    "textCorrect": "I want to travel to Italy.",
+    "capitalWordIndexes": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": 68,
+    "textIncorrect": "my cousin lives in korea.",
+    "textCorrect": "My cousin lives in Korea.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 69,
+    "textIncorrect": "they study spanish at school.",
+    "textCorrect": "They study Spanish at school.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 70,
+    "textIncorrect": "he is from brazil.",
+    "textCorrect": "He is from Brazil.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 71,
+    "textIncorrect": "we met at mcdonald’s for lunch.",
+    "textCorrect": "We met at McDonald’s for lunch.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 72,
+    "textIncorrect": "my sister’s birthday is in april.",
+    "textCorrect": "My sister’s birthday is in April.",
+    "capitalWordIndexes": [
+      0,
+      5
+    ]
+  },
+  {
+    "id": 73,
+    "textIncorrect": "they like american food.",
+    "textCorrect": "They like American food.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 74,
+    "textIncorrect": "we visited disney world last year.",
+    "textCorrect": "We visited Disney World last year.",
+    "capitalWordIndexes": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 75,
+    "textIncorrect": "my dad works at amazon.",
+    "textCorrect": "My dad works at Amazon.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 76,
+    "textIncorrect": "she is from germany.",
+    "textCorrect": "She is from Germany.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 77,
+    "textIncorrect": "we went shopping at target.",
+    "textCorrect": "We went shopping at Target.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 78,
+    "textIncorrect": "my brother lives in beijing.",
+    "textCorrect": "My brother lives in Beijing.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 79,
+    "textIncorrect": "they speak english at home.",
+    "textCorrect": "They speak English at home.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 80,
+    "textIncorrect": "we watched frozen last night.",
+    "textCorrect": "We watched Frozen last night.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 81,
+    "textIncorrect": "he plays soccer with david.",
+    "textCorrect": "He plays soccer with David.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 82,
+    "textIncorrect": "my mom likes italian food.",
+    "textCorrect": "My mom likes Italian food.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 83,
+    "textIncorrect": "they went to lake washington.",
+    "textCorrect": "They went to Lake Washington.",
+    "capitalWordIndexes": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 85,
+    "textIncorrect": "we went to seattle last weekend.",
+    "textCorrect": "We went to Seattle last weekend.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 86,
+    "textIncorrect": "he is from the united states.",
+    "textCorrect": "He is from the United States.",
+    "capitalWordIndexes": [
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 87,
+    "textIncorrect": "my sister studies chinese.",
+    "textCorrect": "My sister studies Chinese.",
+    "capitalWordIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 88,
+    "textIncorrect": "they live in san francisco.",
+    "textCorrect": "They live in San Francisco.",
+    "capitalWordIndexes": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 90,
+    "textIncorrect": "i was born in october.",
+    "textCorrect": "I was born in October.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 91,
+    "textIncorrect": "my favorite subject is history.",
+    "textCorrect": "My favorite subject is History.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 93,
+    "textIncorrect": "he lives near lake sammamish.",
+    "textCorrect": "He lives near Lake Sammamish.",
+    "capitalWordIndexes": [
+      0,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 94,
+    "textIncorrect": "they study english at home.",
+    "textCorrect": "They study English at home.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 95,
+    "textIncorrect": "we visited los angeles last year.",
+    "textCorrect": "We visited Los Angeles last year.",
+    "capitalWordIndexes": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 96,
+    "textIncorrect": "my teacher is from vietnam.",
+    "textCorrect": "My teacher is from Vietnam.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 98,
+    "textIncorrect": "they play basketball at bellevue college.",
+    "textCorrect": "They play basketball at Bellevue College.",
+    "capitalWordIndexes": [
+      0,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 99,
+    "textIncorrect": "we go skiing in december.",
+    "textCorrect": "We go skiing in December.",
+    "capitalWordIndexes": [
+      0,
+      4
+    ]
+  },
+  {
+    "id": 100,
+    "textIncorrect": "he likes mexican food.",
+    "textCorrect": "He likes Mexican food.",
+    "capitalWordIndexes": [
+      0,
+      2
+    ]
+  }
+]
